@@ -1,7 +1,8 @@
 # ChudMoji
-Meme Emojis
+### Meme Emojis done anyhow
 
 Curious what I'm currently building? https://escapefromscrum.com
+
 Like this project? Help me escape from scrum https://ko-fi.com/escapefromscrum
 
 ### Chuds
