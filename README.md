@@ -20,15 +20,27 @@ Like this project? Help me escape from scrum https://ko-fi.com/escapefromscrum
 
 <img src="/emojis/chudshy.svg" width="50px"> chud shocked shy
 
+<img src="/emojis/joy.svg" width="50px"> joy chud
+
+<img src="/emojis/rofl.svg" width="50px"> rofl chud
+
+<img src="/emojis/toxic.svg" width="50px"> toxic laugh chud
+
 ### Soyjacks
 
 <img src="/emojis/soyjack.svg" width="50px"> soyjack
 
 <img src="/emojis/reddituser.svg" width="50px"> reddit user soyjack
 
+<img src="/emojis/disappointment.svg" width="50px"> disappointed soyjack?
+
+<img src="/emojis/smirk.svg" width="50px"> smirk soyjack
+
 
 ### Pepe
 <img src="/emojis/sadpepe.svg" width="50px"> sad pepe
+
+<img src="/emojis/cope.svg" width="50px"> cope pepe
 
 
 ### Pigs
@@ -46,6 +58,14 @@ Like this project? Help me escape from scrum https://ko-fi.com/escapefromscrum
 <img src="/emojis/russiapig.svg" width="50px"> russia
 
 <img src="/emojis/usapig.svg" width="50px"> usa
+
+### Other
+
+<img src="/emojis/inclusiveemoji1.svg" width="50px"> inclusive emoji 1
+
+<img src="/emojis/inclusiveemoji2.svg" width="50px"> inclusive emoji 2
+
+<img src="/emojis/trump.svg" width="50px"> donald trump emoji
 
 
 
