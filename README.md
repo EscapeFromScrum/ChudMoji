@@ -1,10 +1,6 @@
 # ChudMoji
 ### Meme Emojis done anyhow
 
-Curious what I'm currently building? https://escapefromscrum.com
-
-Like this project? Help me escape from scrum https://ko-fi.com/escapefromscrum
-
 ### Chuds
 <img src="/emojis/chud4chan.svg" width="50px"> shamrock chud
 
@@ -69,7 +65,9 @@ Like this project? Help me escape from scrum https://ko-fi.com/escapefromscrum
 
 
 
+Curious what I'm currently building? https://escapefromscrum.com
 
+Like this project? Help me escape from scrum https://ko-fi.com/escapefromscrum
 
 
 
